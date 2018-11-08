@@ -1,8 +1,11 @@
 # REACT REDUX BOILERPLATE
 
+Getting boilerplate ready.
+
 # Environment
-'''
-  "dependencies": {
+React-Redux ready boiler plate with : 
+```sh
+"dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.0",
     "babel-preset-env": "^1.7.0",
@@ -25,4 +28,5 @@
     "nodemon": "^1.18.4",
     "supertest": "^3.3.0"
   }
-'''
+```
+CSS using Bootstrap for a sticky footer component.
